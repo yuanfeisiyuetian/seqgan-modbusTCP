@@ -3,7 +3,9 @@
 
 ### 参考：
 [SeqGAN：https://arxiv.org/abs/1609.05473](https://arxiv.org/abs/1609.05473)
+
 [基于对抗网络的模糊测试：https://doi.org/10.1145/3203217.3203241.](https://doi.org/10.1145/3203217.3203241.)
+
 [代码参考：https://github.com/GaoQ1/seqgan](https://github.com/GaoQ1/seqgan)
 
 ## 训练核心
