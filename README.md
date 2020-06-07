@@ -1,4 +1,4 @@
-## SeqGAN
+## GANFUZZER
 基于对抗网络的模糊测试。通过SeqGAN生成Modbus的消息。
 
 ### 参考：
