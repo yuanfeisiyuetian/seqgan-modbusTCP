@@ -11,7 +11,7 @@ modbus-tk==1.1.0
 numpy==1.18.3
 protobuf==3.11.3
 pyserial==3.4
-PyYAML==5.3.1
+PyYAML==5.4
 scipy==1.4.1
 six==1.14.0
 tensorboard==1.12.2
